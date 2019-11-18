@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/")
     String home() {
-        return "Hello from Hensby!";
+        return "Hello from Hensby test!";
     }
 
 }
